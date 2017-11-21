@@ -36,4 +36,8 @@
 - 第27讲：default.properties文件深度解析
 - 第28讲：Struts2文件上传及核心源代码深度剖析
 - 第29讲：Struts2文件下载及HTTP底层协议剖析
+- 第30讲：使用Annotation实现Struts2的配置
+- 第31讲：使用Struts2实现异步调用机制详细剖析（XML与JSON方式解析）
+- 第32讲：Struts2源代码大揭秘     
+- 第33讲：Struts2源代码大揭秘续及反射在Struts2框架中的应用详解
 - 未完待续...
